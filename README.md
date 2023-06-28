@@ -1,6 +1,7 @@
 # Python Program
 ![Screenshot](carbon.png)
 [![Python](https://img.shields.io/badge/Python-3.0-blue)](https://www.python.org/downloads/release/python-390/)
+[![Django](https://img.shields.io/badge/Django-3.0-green)]((https://www.djangoproject.com/download/))
 
 ## Description
 This is a simple Python program for counting words with Django frameworks.
